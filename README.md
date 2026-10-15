@@ -1,14 +1,14 @@
-# Meridian Health Clinics Analysis Across Lagos
+# 📊 Meridian Health Clinics Analysis Across Lagos
 #### performance overview
 
 
-## Tools Used
+## 🧰 Tools Used
 - Excel (data cleaning)
 - Pivot table (analysis)
 - Pivot chart (visualization)
 
 
-## Project Overview
+## 📈 Project Overview
 
 Meridian health clinics is a fictional mid-sized healthcare provider operating multiple outpatient clinics across Lagos. They offer general and specialist consultations (paediatrics, cardiology, dentistry, general medicine, etc.) and have grown quickly over the past two years by opening new branches. The data involve include information about the clinics in terms of appointment, department, location, speciality and records of the clinic daily activities to patients.
 
@@ -29,7 +29,7 @@ The Meridian healthcare clinics aim to answer questions about the different prob
 The Meridian healthcare clinic dataset was gotten from a secondary source.
 
 
-## Data Transformation/Cleaning
+##  Data Transformation/Cleaning
 
 The dataset was opened in Microsoft excel and data cleaning and transformation was done using excel functions and formulas to prepare the data for exploration and analysis. The data cleaning steps performed in excel using FUNCTIONS and FORMULAS includes:
 1. Checking Duplicates: Duplicates were checked using the countif function.
@@ -61,7 +61,7 @@ KPIS were added to summarize the overall performance and operations of Meridian 
 
 This report provides a detailed explanation and analysis of Meridian healthcare clinic performance. The analysis involves Revenue by clinic branch, Appointment by department, Top doctors by appointment, Appointment status distribution, Common diagnosis, Monthly appointment trend and weekly appointment trend.
 
-#### Revenue By Clinic Branch
+#### 💰 Revenue By Clinic Branch
 a. Meridian Surulere generated a revenue of ₦12,457,500.
 
 b. Meridian Lekki generated ₦8,793,500.
@@ -75,7 +75,7 @@ e. Meridian Yaba revenue amounted to ₦1,904,400.
 <img width="567" height="382" alt="image" src="https://github.com/user-attachments/assets/a9d27ee2-c365-476d-b87c-87c4d7aa8b00" />
 
 
-#### Patient Volume By Department
+#### ⚕️Patient Volume By Department
 a. General medicine has the highest appointment of 1,159.
 
 b. ENT (Ear, Nose & Throat) saw 1,111 numbers of patients.
