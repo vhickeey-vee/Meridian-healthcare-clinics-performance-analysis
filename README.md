@@ -2,22 +2,6 @@
 #### performance overview
 
 
-## Table Of Contents
-- [Tools used](#tools-used)
-- [Project Overview](#project-overview)
-- [Problem Statement](#problem-statement)
-- [Objective](#objective)
-- [Data Source](#data-source)
-- [Data Transformation](data-transformation)
-- [Merging Tables](merging-tables)
-- [Key Performance Indicators KPIs](#key-performance-indicators-kpis)
-- [Clinic Analysis Reports](clinic-analysis-report)
-- [Key Insights & Findings](key-insights-&-findings)
-- [Recommendations](#recommendations)
-- [Dashboard](#dashboard)
-- [Conclusion](#conclusion)
-
-
 ## Tools Used
 - Excel (data cleaning)
 - Pivot table (analysis)
